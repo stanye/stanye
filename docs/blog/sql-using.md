@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: 使用using关键字对连接进行简化
 date: 2017-04-29 14:39:10
 categories: BackEnd

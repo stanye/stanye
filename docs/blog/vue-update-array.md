@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: Vue更新数组状态方法
 date: 2017-05-16 14:58:53
 categories: FrontEnd

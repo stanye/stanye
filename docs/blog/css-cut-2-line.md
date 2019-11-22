@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: css两行截取
 date: 2017-04-03 16:30:22
 categories: FrontEnd

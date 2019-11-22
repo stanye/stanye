@@ -8,28 +8,28 @@ tags:
 
 ## 连接mysql
 
-  ```bath
+  ```Bash
      mysql -h{server host address} -u{username} －p{password}
   ```
 <!-- more -->
 
 ## 修改密码
 
-  ```bath
+  ```Bash
     mysqladmin -u{username} -p{oldpassword} password{newpassword}
   ```
 
 ## 增加新用户
 
   已经进入mysql
-  ```mysql
+  ```sql
     grant select on {dbname}.* to {username}@{host} identified by "{password}"
   ```
   但是为了防止host远程可以连接，一般只开放host配置到localhost，即先登录到服务器，再连接本机mysql
 
 ## 常用命令
 
-  ```mysql
+  ```sql
     // 显示数据库
     show databases;
 
@@ -67,6 +67,6 @@ tags:
 
 ## 导出数据
 
-  ```mysql
+  ```sql
     mysqldump {dbname} > jiaoben.mysql
   ```

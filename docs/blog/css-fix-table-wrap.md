@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: table文字溢出控制
 date: 2017-04-03 12:30:22
 categories: FrontEnd

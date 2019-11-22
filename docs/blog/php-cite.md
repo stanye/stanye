@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: php&引用
 date: 2017-04-29 19:10:39
 categories: BackEnd

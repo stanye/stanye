@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: php file_put_contents 函数
 date: 2017-03-28 9:21:11
 categories: BackEnd

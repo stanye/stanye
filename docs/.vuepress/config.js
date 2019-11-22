@@ -1,12 +1,13 @@
 module.exports = {
   title: "夜夜空里 | Stan Ye's blog",
-  description: "This is a Zeit Now 2.0 example",
+  description: "Better to run than curse the road",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       { text: 'Blog', link: '/blog/index.html' },
-      // { text: "Config Page", link: "/config" }
-    ]
+      { text: "About", link: "/about.html" }
+    ],
+    sidebar: 'auto'
   },
   dest: "public"
 };

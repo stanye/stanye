@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: Skeleton Screen - 骨架屏设计
 date: 2018-05-30 11:00:00
 categories: 产品设计

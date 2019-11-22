@@ -1,13 +1,13 @@
-# About me
-
-A front-end engineer
-
-Blog: [https://stanye.com/blog](https://stanye.com/blog)
-
-## Projects
-
-TBC
-
-## Contact me
-
-mail: xiaocooshy@qq.com
+---
+home: true
+actionText: Get Started →
+actionLink: /blog/
+features:
+- title: 施工中
+  details: 敬请期待.
+- title: 施工中
+  details: 敬请期待.
+- title: 施工中
+  details: 敬请期待.
+footer: MIT Licensed | Copyright © 2018-present Stan Ye
+---

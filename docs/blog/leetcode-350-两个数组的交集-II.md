@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: leetcode - 350. 两个数组的交集 II
 date: 2018-06-06 11:41:43
 categories: FrontEnd

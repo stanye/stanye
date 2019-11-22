@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: 产品经理如何与技术沟通
 date: 2018-05-10 19:07:10
 categories: 产品设计

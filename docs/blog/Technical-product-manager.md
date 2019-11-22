@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 技术型产品经理需要了解的知识点
 date: 2018-05-10 19:11:22
 categories: 产品设计

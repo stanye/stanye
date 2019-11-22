@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: regex in my program
 date: 2016-07-15 11:41:43
 categories: BackEnd
@@ -14,7 +14,7 @@ tags:
 1. 匹配>< `>[\s]+<`
 2. 匹配反斜杠(匹配一个反斜杠要用四个反斜杠)
 
-   ```regexp
+   ```js
    \\\\
    ```
 

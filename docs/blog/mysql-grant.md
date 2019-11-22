@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: mysql给表赋权
 date: 2017-04-04 11:22:52
 categories: BackEnd
