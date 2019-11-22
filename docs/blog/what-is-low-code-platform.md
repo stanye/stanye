@@ -51,11 +51,9 @@ what is low code platform ？
 
 首先我们定义了JSON配置文件，类似json schema，老大称之为Lego DSL（Lego领域特定语言）。
 
-```doc
-一切配置的最终目标是生成这份JSON.
-一切渲染是以这份JSON为基础.
-一切组件和行为库要满足JSON的数据格式与规范.
-```
+* 一切配置的最终目标是生成这份JSON.
+* 一切渲染是以这份JSON为基础.
+* 一切组件和行为库要满足JSON的数据格式与规范.
 > 这是lego的血
 
 #### 核心渲染引擎Lego/core

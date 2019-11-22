@@ -9,5 +9,18 @@ module.exports = {
     ],
     sidebar: 'auto'
   },
-  dest: "public"
+  dest: "public",
+  plugins: [
+    [
+      '@shuaijs/gitalk',
+      {
+        clientID: 'b7ecea36c7957fdadfb6',
+				clientSecret: '95dddf9298936c42c983f727c2f40c118d30a147',
+				repo: 'stanye',
+				owner: 'stanye',
+				admin: ['stanye'],
+        selector: '.page'
+      }
+    ]
+  ]
 };

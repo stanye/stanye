@@ -1,13 +1,18 @@
 {
-  "name": "vuepress",
-  "version": "1.0.0",
+  "name": "stanye",
+  "description": "Personal site of Stan Ye",
+  "version": "1.0.1",
   "license": "MIT",
+  "url": "https://github.com/stanye/stanye",
   "private": true,
   "scripts": {
-    "dev": "vuepress dev docs --port $PORT",
+    "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
+  "author": "Stan Ye <xiaocooshy@@qq.com>",
+  "homepage": "https://stanye.com",
   "devDependencies": {
-    "vuepress": "^0.14.4"
+    "@shuaijs/vuepress-plugin-gitalk": "^1.0.1",
+    "vuepress": "^1.2.0"
   }
 }
