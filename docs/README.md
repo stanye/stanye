@@ -1,1 +1,13 @@
-# Hello From Vuepress on Now 2.0!
+# About me
+
+A front-end engineer
+
+Blog: [https://stanye.com/blog](https://stanye.com/blog)
+
+## Projects
+
+TBC
+
+## Contact me
+
+mail: xiaocooshy@qq.com
