@@ -14,5 +14,8 @@
   "devDependencies": {
     "@shuaijs/vuepress-plugin-gitalk": "^1.0.1",
     "vuepress": "^1.2.0"
+  },
+  "dependencies": {
+    "@shuaijs/vuepress-plugin-baidu-autopush": "^1.0.0"
   }
 }

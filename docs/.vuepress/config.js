@@ -21,6 +21,7 @@ module.exports = {
 				admin: ['stanye'],
         selector: '.page'
       }
-    ]
+    ],
+    '@shuaijs/baidu-autopush'
   ]
 };
