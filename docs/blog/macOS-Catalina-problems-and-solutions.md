@@ -15,3 +15,15 @@ tags:
     原因：这两个包过期不守信
     邪道：将系统时间改为`2019年10月1日`也能解决问题
 <!-- more -->
+
+## Flutter
+![idevicew_id](https://user-images.githubusercontent.com/7895581/66450545-9159a300-ea1e-11e9-8976-acbc5524ffb7.png)
+When you're developing on Catalina, you can fix it by
+
+    ``` bash
+    // idevice_id
+    sudo xattr -d com.apple.quarantine /PATH_TO_YOUR_FLUTTER_HOME/bin/cache/artifacts/libimobiledevice/idevice_id
+    // ideviceinfo
+    sudo xattr -d com.apple.quarantine /PATH_TO_YOUR_FLUTTER_HOME/bin/cache/artifacts/libimobiledevice/ideviceinfo
+    // iproxy
+    sudo xattr -d com.apple.quarantine /PATH_TO_YOUR_FLUTTER_HOME/bin/cache/artifacts/usbmuxd/iproxy```
